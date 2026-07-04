@@ -1,4 +1,4 @@
-# 100xDevs-gaurav: My 0 to 100 Journey 
+# 100xDevs-gaurav: 0 to 100
 
 Welcome! This repository documents my progress through the **100xDevs Cohort**. With **57+ videos completed**, I have transitioned from writing basic scripts to building production-ready Full-Stack applications.
 
