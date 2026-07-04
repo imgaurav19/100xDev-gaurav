@@ -1,2 +1,2 @@
 # 100x-devs-ios-gaurav
-show my work
+Projects, assignments, and experiments from my 100xDevs journey
